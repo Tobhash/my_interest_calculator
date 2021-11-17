@@ -1,0 +1,9 @@
+# Ignore all workspace files
+
+workspace.code-workspace
+.code-workspace
+workspace
+
+# all .png files
+
+*.png
