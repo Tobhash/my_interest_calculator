@@ -3,7 +3,3 @@
 workspace.code-workspace
 .code-workspace
 workspace
-
-# all .png files
-
-*.png
